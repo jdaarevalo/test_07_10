@@ -13,4 +13,5 @@ Instalar librerias via pip
 - ```pip install "colorama>=0.3.8"```
 - ```pip install future```
 - ```pip install h2o```
+- ```pip install pandas-profiling```
 
