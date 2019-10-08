@@ -2,7 +2,8 @@
 
 ## Requirementos
 
-Intalar Spark
+Instalar Spark,
+
 Para la instalación de Spark se puede seguir este tutorial  [https://github.com/jdaarevalo/workshop_spark/blob/master/1.%20Installation.ipynb]
 
 
